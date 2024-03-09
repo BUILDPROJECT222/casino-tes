@@ -18,11 +18,11 @@ export function Home() {
           <Button
             as="a"
             color="white"
-            href="https://x.com/bonkboysol"
+            href="https://t.me/bonkespl"
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
-            Learn more
+            Join Telegram
           </Button>
         </div>
       </Section>
